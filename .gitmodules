@@ -1,0 +1,3 @@
+[submodule "latex/preprint-template"]
+	path = latex/preprint-template
+	url = https://github.com/ninsteve/preprint-template.git
